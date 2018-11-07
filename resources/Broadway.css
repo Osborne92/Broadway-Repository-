@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+}
+
+nav {
+  background-image: url('./Photos/building.png');
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: Helvetica;
+  font-size: 32px;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+nav a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.TheProcess p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.Information h2 {
+  background-image: url('./Photos/building.png');
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer a {
+font-family: Helvetica;
+font-size: 20px;
+font-weight: bold;
+color: white;
+}
